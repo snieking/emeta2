@@ -60,95 +60,155 @@
       "id": 11,
       "name": "Patterned Modern Lamp",
       "image": ""
+    },{
+      "id": 0,
+      "name": "Blue Modern Sofa",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "Blue Modern Seat",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Blue Modern Lamp",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "White Modern Sofa",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "White Modern Seat",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "White Modern Lamp",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Red Modern Sofa",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Red Modern Seat",
+      "image": ""
+    },
+
+    {
+      "id": 8,
+      "name": "Red Modern Lamp",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Patterned Modern Sofa",
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "Patterned Modern Seat",
+      "image": ""
+    },
+    {
+      "id": 11,
+      "name": "Patterned Modern Lamp",
+      "image": ""
     },
     {
       "id": 12,
-      "name": "",
+      "name": "Blue Modern Sofa",
       "image": ""
     },
     {
       "id": 13,
-      "name": "",
+      "name": "Blue Modern Seat",
       "image": ""
     },
     {
       "id": 14,
-      "name": "",
+      "name": "Blue Modern Lamp",
       "image": ""
     },
     {
       "id": 15,
-      "name": "",
+      "name": "White Modern Sofa",
       "image": ""
     },
     {
       "id": 16,
-      "name": "",
+      "name": "White Modern Seat",
       "image": ""
     },
     {
       "id": 17,
-      "name": "",
+      "name": "White Modern Lamp",
       "image": ""
     },
     {
       "id": 18,
-      "name": "",
+      "name": "Red Modern Sofa",
       "image": ""
     },
     {
       "id": 19,
-      "name": "",
+      "name": "Red Modern Seat",
       "image": ""
     },
     {
       "id": 20,
-      "name": "",
+      "name": "Red Modern Lamp",
       "image": ""
     },
     {
       "id": 21,
-      "name": "",
+      "name": "Patterned Modern Sofa",
+      "image": ""
+    },
+    {
+      "id": 22,
+      "name": "Patterned Modern Seat",
       "image": ""
     },
     {
       "id": 23,
-      "name": "",
+      "name": "Patterned Modern Lamp",
       "image": ""
     },
     {
       "id": 24,
-      "name": "",
+      "name": "Red Modern Seat",
       "image": ""
     },
     {
       "id": 25,
-      "name": "",
-      "image": ""
-    },
-    {
-      "id": 25,
-      "name": "",
+      "name": "Red Modern Lamp",
       "image": ""
     },
     {
       "id": 26,
-      "name": "",
+      "name": "Patterned Modern Sofa",
       "image": ""
     },
     {
       "id": 27,
-      "name": "",
+      "name": "Patterned Modern Seat",
       "image": ""
     },
     {
       "id": 28,
-      "name": "",
+      "name": "Patterned Modern Lamp",
       "image": ""
     },
     {
       "id": 29,
-      "name": "",
+      "name": "Patterned Modern Lamp",
       "image": ""
     }
   ],

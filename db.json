@@ -40,66 +40,6 @@
       "name": "Red Modern Seat",
       "image": ""
     },
-
-    {
-      "id": 8,
-      "name": "Red Modern Lamp",
-      "image": ""
-    },
-    {
-      "id": 9,
-      "name": "Patterned Modern Sofa",
-      "image": ""
-    },
-    {
-      "id": 10,
-      "name": "Patterned Modern Seat",
-      "image": ""
-    },
-    {
-      "id": 11,
-      "name": "Patterned Modern Lamp",
-      "image": ""
-    },{
-      "id": 0,
-      "name": "Blue Modern Sofa",
-      "image": ""
-    },
-    {
-      "id": 1,
-      "name": "Blue Modern Seat",
-      "image": ""
-    },
-    {
-      "id": 2,
-      "name": "Blue Modern Lamp",
-      "image": ""
-    },
-    {
-      "id": 3,
-      "name": "White Modern Sofa",
-      "image": ""
-    },
-    {
-      "id": 4,
-      "name": "White Modern Seat",
-      "image": ""
-    },
-    {
-      "id": 5,
-      "name": "White Modern Lamp",
-      "image": ""
-    },
-    {
-      "id": 6,
-      "name": "Red Modern Sofa",
-      "image": ""
-    },
-    {
-      "id": 7,
-      "name": "Red Modern Seat",
-      "image": ""
-    },
     {
       "id": 8,
       "name": "Red Modern Lamp",
